@@ -24,8 +24,7 @@
     "nightmare-react-utils": "^1.0.4",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
-    "serve-favicon": "^2.0.1",
-    "webpack": "^3.6.0"
+    "serve-favicon": "^2.0.1"
   },
   "devDependencies": {
     "axios-mock-adapter": "^1.6.1",
@@ -52,7 +51,8 @@
     "react-addons-test-utils": "^15.6.0",
     "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",
-    "url-loader": "^0.5.9"
+    "url-loader": "^0.5.9",
+    "webpack": "^3.6.0"
   },
   "repository": {
     "type": "git",
